@@ -56,13 +56,18 @@ python3 main.py
 ```
 
 ---
-##Screeshots
 
-System top tray bar <img width="255" height="33" alt="image" src="https://github.com/user-attachments/assets/fd196535-1338-432b-a919-c8a013cea588" />
-.
-Drop down <img width="290" height="141" alt="image" src="https://github.com/user-attachments/assets/66222a81-1d16-4f2c-8e3e-53573f4bfde6" />
-.
-Brightness controll window<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/26f0d8fc-bf2c-4420-a61b-c66b0d6513ce" />
+
+## Screenshots
+
+### System top tray bar
+<img width="255" alt="System tray" src="https://github.com/user-attachments/assets/fd196535-1338-432b-a919-c8a013cea588" />
+
+### Drop down menu
+<img width="290" alt="Dropdown menu" src="https://github.com/user-attachments/assets/66222a81-1d16-4f2c-8e3e-53573f4bfde6" />
+
+### Brightness control window
+<img width="326" alt="Brightness control" src="https://github.com/user-attachments/assets/26f0d8fc-bf2c-4420-a61b-c66b0d6513ce" />
 
 
 ## Startup Service
